@@ -1,2 +1,2 @@
-# GIT-CLASS
+# GITCLASS
 aulas de git
