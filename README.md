@@ -1,2 +1,0 @@
-# GITCLASS
-aulas de git
